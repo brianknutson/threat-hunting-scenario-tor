@@ -143,7 +143,7 @@ DeviceNetworkEvents
 ### 6. File Creation - TOR Shopping List
 
 - **Timestamp:** `2026-06-12T11:12:20.526874Z`
-- **Event:** The user "employee" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
+- **Event:** The user "labuser" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
 - **Action:** File creation detected.
 - **File Path:** `C:\Users\labuser\Desktop\tor-shopping-list.txt.txt`
 
